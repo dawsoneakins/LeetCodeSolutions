@@ -1,0 +1,15 @@
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\bin\Debug\net6.0\LeetCodeC#.exe
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\bin\Debug\net6.0\LeetCodeC#.deps.json
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\bin\Debug\net6.0\LeetCodeC#.runtimeconfig.json
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\bin\Debug\net6.0\LeetCodeC#.dll
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\bin\Debug\net6.0\LeetCodeC#.pdb
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.csproj.AssemblyReference.cache
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.AssemblyInfoInputs.cache
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.AssemblyInfo.cs
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.csproj.CoreCompileInputs.cache
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.dll
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\refint\LeetCodeC#.dll
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.pdb
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\LeetCodeC#.genruntimeconfig.cache
+C:\Users\dawso\OneDrive\Documents\LeetCode\LeetCodeC#\LeetCodeC#\obj\Debug\net6.0\ref\LeetCodeC#.dll
