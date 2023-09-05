@@ -21,15 +21,15 @@
         throw new ArgumentException("No two numbers add up to the target.");
     }
 
-    static void Main()
-    {
-        int[] nums = { 2, 7, 11, 15 };
-        int target = 9;
-        Solution solution = new Solution();
+    /* static void Main()
+     {
+         int[] nums = { 2, 7, 11, 15 };
+         int target = 9;
+         Solution solution = new Solution();
 
-        int[] result = solution.TwoSum(nums, target);
+         int[] result = solution.TwoSum(nums, target);
 
-        Console.WriteLine("Indices of the two numbers that add up to target:");
-        Console.WriteLine($"[{result[0]}, {result[1]}]");
-    }
+         Console.WriteLine("Indices of the two numbers that add up to target:");
+         Console.WriteLine($"[{result[0]}, {result[1]}]");
+     } */
 }
